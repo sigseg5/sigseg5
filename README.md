@@ -24,5 +24,3 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 - 👯 I’m looking to collaborate on projects focused at privacy and security;
 - 📫 How to reach me at Telegram: [kirill_nk](https://t.me/kirill_nk);
 - :revolving_hearts: You can support me at [Patreon](https://patreon.com/sigseg5)
-
-![GitHub metrics](https://metrics.lecoq.io/sigseg5)
